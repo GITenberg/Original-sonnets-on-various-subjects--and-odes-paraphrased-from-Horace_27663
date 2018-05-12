@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32829'
     url: http://www.gutenberg.org/2009/agents/32829
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27663#Original-sonnets-on-various-subjects--and-odes-paraphrased-from-Horace
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2008-12-30'
 gutenberg_type: Text
