@@ -1,0 +1,30 @@
+_repo: Original-sonnets-on-various-subjects--and-odes-paraphrased-from-Horace_27663
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seward, Anna
+    birthdate: 1742
+    deathdate: 1809
+    gutenberg_agent_id: '32829'
+    url: http://www.gutenberg.org/2009/agents/32829
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2008-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27663'
+  lccn: '32006965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Sonnets, English'
+- !lcsh 'Horace -- Adaptations'
+- !lcsh 'Laudatory poetry, Latin -- Adaptations'
+title: Original sonnets on various subjects; and odes paraphrased from Horace
+url: http://www.gutenberg.org/ebooks/27663
